@@ -1,6 +1,6 @@
 # MDCSwipeToChoose
 
-[![Build Status](https://travis-ci.org/modocache/MDCSwipeToChoose.svg?branch=master)](https://travis-ci.org/modocache/MDCSwipeToChoose)
+#Add support for all ios platforms
 
 Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
 
@@ -16,7 +16,7 @@ You may view slides on some the architecture decisions that went into this libra
 Place the following in your Podfile and run `pod install`:
 
 ```objc
-pod "MDCSwipeToChoose"
+pod "YJHSwipeToChoose"
 ```
 
 ## How to Use
