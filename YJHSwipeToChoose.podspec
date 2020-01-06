@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'YJHSwipeToChoose'
-  s.version = '0.3'
+  s.version = '0.3.1'
   s.platform = :ios
   s.summary = 'Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!'
   s.homepage = 'https://github.com/modocache/MDCSwipeToChoose'
